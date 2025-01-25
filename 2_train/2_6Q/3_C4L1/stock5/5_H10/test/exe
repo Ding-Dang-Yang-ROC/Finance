@@ -1,0 +1,2 @@
+rm Result/*
+python train_F234514.py
