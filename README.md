@@ -7,6 +7,7 @@ This repository contains the implementation of Quantum Convolutional Neural Netw
 Before running the code, install the required Python libraries:
 
 pip install numpy pandas torch torchvision pennylane
+
 Ensure that your Python version is compatible with these libraries.
 
 ## 2. Directory Structure
