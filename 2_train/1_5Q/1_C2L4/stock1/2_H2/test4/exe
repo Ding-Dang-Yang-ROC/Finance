@@ -1,0 +1,2 @@
+rm Result/*
+python train_21112.py

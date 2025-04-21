@@ -1,0 +1,3 @@
+cat */*/Result/accu_sum > a.1
+grep 1000 a.1 > a.2
+cat a.2
